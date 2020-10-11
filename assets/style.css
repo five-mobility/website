@@ -15,10 +15,10 @@ html, body{
     min-height: 80vh!important;
     height: 80vh!important;
 }
-h1,h2,h3,h4,h5,h6{
+/* h1,h2,h3,h4,h5,h6{
     font-family: 'rocko-flf', sans-serif!important;
-    font-weight: 600!important;
-}
+    
+} */
 .logo{
     font-weight: 700;
     font-family: 'rocko-flf';
@@ -131,4 +131,7 @@ a{
 }
 .noList{
     list-style: none!important;
+}
+.img-responsive{
+    max-height: 200px;
 }
